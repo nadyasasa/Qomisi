@@ -7,4 +7,4 @@ Cara menjalankan programnya :
 2. Pilih opsi : 1 => menghitung gaji; 2 => menyimpan data karyawan beserta gajinya di database; 3 => menampilkan data yang telah tersimpan.
 3. Close window (untuk keluar)
 
-Pada program ini, apabila tidak disimpan maka data tidak tersimpan di database.
+Pada program ini, apabila data yang diinput tidak disimpan maka data tersebut tidak tersimpan di database.
