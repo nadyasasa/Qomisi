@@ -17,21 +17,6 @@ namespace sample_2
         private static ArrayList listKaryawan = new ArrayList();
         static void Main(string[] args)
         {
-            // var Karyawans = new List<Karyawan<object>>
-            // {
-            //     new timDenah("Nadya Kohl",12),
-            //     new timDenah("Ardhito Permadi", 40),
-            //     new Tim3D("Annissa Alert", 5),
-            //     new Tim3D("Widya Jang", 6),
-            //     new TimDED("Sasha Nur Jannah", 101),
-            //     new TimDED("Sekar Scarlet",102)
-            // };
-
-            // foreach (var Karyawan in Karyawans)
-            // {
-            //     Karyawan.display();
-            //     Console.ReadKey();
-            // }
             loop();
         }
 
